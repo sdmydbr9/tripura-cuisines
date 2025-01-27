@@ -107,7 +107,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 - Salt  
 
 **Note:**  
-No meat is used in this dish, as chicken and pork have been removed from its traditional recipe.
+No meat or oil is used in this dish, as chicken and pork have been removed from its traditional recipe.
 
 ---
 
