@@ -52,9 +52,11 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 - Sticky rice  
 - Ginger  
 - Salt  
-- Mustard oil  
+- Mustard oil
+  
 
 **Removed ingredients not used**  
+**Lairu leaves required, in which the ingredients are wrapped in a conical shape and boiled**
 
 ---
 
