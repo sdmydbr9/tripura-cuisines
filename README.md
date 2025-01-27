@@ -4,7 +4,7 @@ This document highlights some of the traditional dishes from Tripura, their ingr
 
 ---
 
-## 1. Mui Borok  
+## 1. Mui Borok  (*traditional dish*)
 **Ingredients:**  
 - Fermented fish (required)  
 - Bamboo shoots / green vegetables / root vegetables / any other vegetable actually.  
@@ -18,7 +18,7 @@ Mui Borok is a broad term representing most cuisines local to the Borok (Tripuri
 
 ---
 
-## 2. Chakhwi  
+## 2. Chakhwi  (*traditional dish*)
 **Ingredients:**  
 - Soda (main ingredient; traditionally extracted from ash using a  *chekhok* or *Chakhwi Khok*)  
 - Bamboo shoots  
@@ -47,7 +47,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ---
 
-## 4. Bhangui or Awang Bhangui  
+## 4. Bhangui or Awang Bhangui  (*traditional dish*)
 **Ingredients:**  
 - Sticky rice  
 - Ginger  
@@ -60,7 +60,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ---
 
-## 5. Gudok  
+## 5. Gudok  (*traditional dish*)
 **Ingredients:**  
 - Fermented fish (required)  
 - Bamboo shoots (optional)  
@@ -76,7 +76,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ---
 
-## 6. Wahan Mosdeng  
+## 6. Wahan Mosdeng  (*traditional dish*)
 **Ingredients:**  
 - Pork  
 - Green chilies  
@@ -88,7 +88,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ---
 
-## 7. Berma Bata (**Not Edited**)  
+## 7. Berma Bata (dish of the bengali community) (**Not Edited**)  
 **Ingredients:**  
 - Fermented fish (Berma)  
 - Onions  
@@ -99,7 +99,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ---
 
-## 8. Muiya Awandru  
+## 8. Muiya Awandru  (*traditional dish*)
 **Ingredients:**  
 - Awan (rice flour; prepared by soaking around one cup of rice in water, (depending on the amount of the whole dish), grinding it into a powder, and making it into a paste). This is the main ingredient.
 - Bamboo shoots (main ingredient)  
@@ -115,7 +115,7 @@ No meat or oil is used in this dish, as chicken and pork have been removed from 
 
 ---
 
-## 9. Rice Roti (**Not Edited**)  
+## 9. Rice Roti  (dish of the bengali community) (**Not Edited**)  
 **Ingredients:**  
 - Rice flour  
 - Water  
@@ -124,7 +124,7 @@ No meat or oil is used in this dish, as chicken and pork have been removed from 
 
 ---
 
-## 10. Paanch Phoron Tarkari (**Not Edited**)  
+## 10. Paanch Phoron Tarkari (dish of the bengali community) (**Not Edited**)  
 **Ingredients:**  
 - Mixed vegetables (potatoes, beans, brinjal)  
 - Panch phoron (five-spice mix)  
@@ -136,7 +136,7 @@ No meat or oil is used in this dish, as chicken and pork have been removed from 
 
 ---
 
-## 11. Berma Bwtwi (Fermented Fish Soup)  
+## 11. Berma Bwtwi (Fermented Fish Soup)  (*traditional dish*)
 **Ingredients:**  
 - Fermented fish  
 - Onion  
