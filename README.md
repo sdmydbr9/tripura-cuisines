@@ -1,6 +1,6 @@
 # Traditional Cuisines of Tripura
 
-This document highlights some of the traditional dishes from Tripura, their ingredients, and preparation methods. These dishes reflect the rich culinary heritage of the Borok (Tripuri community) and often emphasize natural, oil-free, and masala-free cooking techniques.
+This document highlights some of the traditional dishes from Tripura, their ingredients, and preparation methods and often emphasize natural, oil-free, and masala-free cooking techniques.
 
 ---
 
