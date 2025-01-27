@@ -99,12 +99,14 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ## 8. Muiya Awandru  
 **Ingredients:**  
-- Awan (rice flour; prepared by soaking around one cup of rice in water, (depending on the amount of the whole dish), grinding it into a powder, and making it into a paste)  
+- Awan (rice flour; prepared by soaking around one cup of rice in water, (depending on the amount of the whole dish), grinding it into a powder, and making it into a paste). This is the main ingredient.
 - Bamboo shoots (main ingredient)  
 - Ginger  
 - Garlic  
 - Green chilies  
-- Salt  
+- Salt
+- lemon leaves (recommended)
+- jackfruit seeds(recommended)
 
 **Note:**  
 No meat or oil is used in this dish, as chicken and pork have been removed from its traditional recipe.
