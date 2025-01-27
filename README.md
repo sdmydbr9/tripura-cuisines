@@ -37,14 +37,14 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ---
 
-## 3. Mosdeng Serma (Fried Chutney; Not Too Mainstream)  
+## 3. Mosdeng Serma (Fried Chutney; Not Too Mainstream)   (**Not Edited**)
 **Ingredients:**  
 - Tomato  
 - Green chilies  
 - Garlic  
 - Ginger  
 - Salt  
-**Not Edited**  
+
 ---
 
 ## 4. Bhangui or Awang Bangui  
@@ -84,7 +84,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ---
 
-## 7. Berma Bata  
+## 7. Berma Bata   (**Not Edited**)
 **Ingredients:**  
 - Fermented fish (Berma)  
 - Onions  
@@ -92,7 +92,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 - Garlic  
 - Mustard oil  
 - Salt  
-**Not Edited**  
+
 ---
 
 ## 8. Muiya Awandru  
@@ -110,16 +110,16 @@ No meat is used in this dish, as chicken and pork have been removed from its tra
 
 ---
 
-## 9. Rice Roti  
+## 9. Rice Roti   (**Not Edited**)
 **Ingredients:**  
 - Rice flour  
 - Water  
 - Salt  
 - Ghee  
-**Not Edited**  
+
 ---
 
-## 10. Paanch Phoron Tarkari  
+## 10. Paanch Phoron Tarkari  (**Not Edited**)
 **Ingredients:**  
 - Mixed vegetables (potatoes, beans, brinjal)  
 - Panch phoron (five-spice mix)  
@@ -128,7 +128,7 @@ No meat is used in this dish, as chicken and pork have been removed from its tra
 - Turmeric  
 - Ginger  
 - Salt  
-**Not Edited**  
+
 ---
 
 ## 11. Berma Bwtwi (Fermented Fish Soup)  
