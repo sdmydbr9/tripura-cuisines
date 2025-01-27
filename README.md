@@ -7,14 +7,14 @@ This document highlights some of the traditional dishes from Tripura, their ingr
 ## 1. Mui Borok  
 **Ingredients:**  
 - Fermented fish (required)  
-- Bamboo shoots / green vegetables / root vegetables / any other vegetable actually.
+- Bamboo shoots / green vegetables / root vegetables / any other vegetable actually.  
 - Green chilies  
 - Garlic  
 - Ginger  
 - Coriander leaves  
 
 **Comment:**  
-Mui Borok is a broad term representing most cuisines local to the Borok (Tripuri community). It is usually prepared without using oil or masalas. Dishes like *Gudok*, *Awandru*, and *Berma Butwi* can all be categorized under Mui Borok, making it more of a category than a single dish.  
+Mui Borok is a broad term representing most cuisines local to the Borok (Tripuri community). It is usually prepared without using oil or masalas. Dishes like [Gudok](#5-gudok), [Muiya Awandru](#8-muiya-awandru), and [Berma Bwtwi](#11-berma-bwtwi-fermented-fish-soup) can all be categorized under Mui Borok, making it more of a category than a single dish.  
 
 ---
 
@@ -37,7 +37,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ---
 
-## 3. Mosdeng Serma (Fried Chutney; Not Too Mainstream)   (**Not Edited**)
+## 3. Mosdeng Serma (Fried Chutney; Not Too Mainstream)  
 **Ingredients:**  
 - Tomato  
 - Green chilies  
@@ -53,7 +53,9 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 - Ginger  
 - Salt  
 - Mustard oil  
-**Removed ingredients not used**  
+
+**Removed ingredients not used**
+
 ---
 
 ## 5. Gudok  
@@ -84,7 +86,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ---
 
-## 7. Berma Bata   (**Not Edited**)
+## 7. Berma Bata  
 **Ingredients:**  
 - Fermented fish (Berma)  
 - Onions  
@@ -110,7 +112,7 @@ No meat is used in this dish, as chicken and pork have been removed from its tra
 
 ---
 
-## 9. Rice Roti   (**Not Edited**)
+## 9. Rice Roti  
 **Ingredients:**  
 - Rice flour  
 - Water  
@@ -119,7 +121,7 @@ No meat is used in this dish, as chicken and pork have been removed from its tra
 
 ---
 
-## 10. Paanch Phoron Tarkari  (**Not Edited**)
+## 10. Paanch Phoron Tarkari  
 **Ingredients:**  
 - Mixed vegetables (potatoes, beans, brinjal)  
 - Panch phoron (five-spice mix)  
