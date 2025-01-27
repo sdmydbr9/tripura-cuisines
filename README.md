@@ -20,7 +20,7 @@ Mui Borok is a broad term representing most cuisines local to the Borok (Tripuri
 
 ## 2. Chakhwi  
 **Ingredients:**  
-- Soda (main ingredient; traditionally extracted from ash using a *Chakwi Khok*)  
+- Soda (main ingredient; traditionally extracted from ash using a  *chekhok* or *Chakhwi Khok*)  
 - Bamboo shoots  
 - Green chilies  
 - Ginger  
@@ -37,7 +37,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ---
 
-## 3. Mosdeng Serma (Fried Chutney; Not Too Mainstream)  
+## 3. Mosodeng Serma (Fried Chutney; Not Too Mainstream) (**Not Edited**)  
 **Ingredients:**  
 - Tomato  
 - Green chilies  
@@ -47,14 +47,14 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ---
 
-## 4. Bhangui or Awang Bangui  
+## 4. Bhangui or Awang Bhangui  
 **Ingredients:**  
 - Sticky rice  
 - Ginger  
 - Salt  
 - Mustard oil  
 
-**Removed ingredients not used**
+**Removed ingredients not used**  
 
 ---
 
@@ -86,7 +86,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 
 ---
 
-## 7. Berma Bata  
+## 7. Berma Bata (**Not Edited**)  
 **Ingredients:**  
 - Fermented fish (Berma)  
 - Onions  
@@ -104,7 +104,6 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 - Ginger  
 - Garlic  
 - Green chilies  
-- Mustard oil  
 - Salt  
 
 **Note:**  
@@ -112,7 +111,7 @@ No meat is used in this dish, as chicken and pork have been removed from its tra
 
 ---
 
-## 9. Rice Roti  
+## 9. Rice Roti (**Not Edited**)  
 **Ingredients:**  
 - Rice flour  
 - Water  
@@ -121,7 +120,7 @@ No meat is used in this dish, as chicken and pork have been removed from its tra
 
 ---
 
-## 10. Paanch Phoron Tarkari  
+## 10. Paanch Phoron Tarkari (**Not Edited**)  
 **Ingredients:**  
 - Mixed vegetables (potatoes, beans, brinjal)  
 - Panch phoron (five-spice mix)  
