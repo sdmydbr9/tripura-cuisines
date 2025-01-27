@@ -30,8 +30,10 @@ Mui Borok is a broad term representing most cuisines local to the Borok (Tripuri
 - Pork (optional)  
 - Banana trunk (optional)  
 
-**Note:**  
-The traditional preparation involves extracting alkaline liquid from ash, a practice that has mostly been replaced by soda.
+**Traditional Method of Extracting Alkaline Liquid:**  
+In the olden days, the alkaline liquid was extracted from ash using a conical bamboo basket called *Chekhok* (or *Chakwi Khok*). The ash was placed inside the basket, water was added, and the liquid extract was collected at the bottom. This method has now been replaced by soda in most cases.  
+
+![Traditional Method of Extracting Alkaline Liquid](chekhok.jpg)
 
 ---
 
