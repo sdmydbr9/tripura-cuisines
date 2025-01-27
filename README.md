@@ -7,7 +7,7 @@ This document highlights some of the traditional dishes from Tripura, their ingr
 ## 1. Mui Borok  
 **Ingredients:**  
 - Fermented fish (required)  
-- Bamboo shoots / green vegetables / root vegetables  
+- Bamboo shoots / green vegetables / root vegetables / any other vegetable actually.
 - Green chilies  
 - Garlic  
 - Ginger  
@@ -44,7 +44,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 - Garlic  
 - Ginger  
 - Salt  
-
+**Not Edited**  
 ---
 
 ## 4. Bhangui or Awang Bangui  
@@ -53,7 +53,7 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 - Ginger  
 - Salt  
 - Mustard oil  
-
+**Removed ingredients not used**  
 ---
 
 ## 5. Gudok  
@@ -92,12 +92,12 @@ In the olden days, the alkaline liquid was extracted from ash using a conical ba
 - Garlic  
 - Mustard oil  
 - Salt  
-
+**Not Edited**  
 ---
 
 ## 8. Muiya Awandru  
 **Ingredients:**  
-- Awan (rice flour; prepared by soaking rice in water, grinding it into a powder, and making it into a paste)  
+- Awan (rice flour; prepared by soaking around one cup of rice in water, (depending on the amount of the whole dish), grinding it into a powder, and making it into a paste)  
 - Bamboo shoots (main ingredient)  
 - Ginger  
 - Garlic  
@@ -116,7 +116,7 @@ No meat is used in this dish, as chicken and pork have been removed from its tra
 - Water  
 - Salt  
 - Ghee  
-
+**Not Edited**  
 ---
 
 ## 10. Paanch Phoron Tarkari  
@@ -128,7 +128,7 @@ No meat is used in this dish, as chicken and pork have been removed from its tra
 - Turmeric  
 - Ginger  
 - Salt  
-
+**Not Edited**  
 ---
 
 ## 11. Berma Bwtwi (Fermented Fish Soup)  
