@@ -136,7 +136,7 @@ No meat or oil is used in this dish, as chicken and pork have been removed from 
 
 ---
 
-## 11. Berma Bwtwi (Fermented Fish Soup)  (*traditional dish*)
+## 11. Berma Bwtwi (Fermented Fish stew)  (*traditional dish*)
 **Ingredients:**  
 - Fermented fish  
 - Onion  
